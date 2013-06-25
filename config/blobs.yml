@@ -79,3 +79,18 @@ rootfs/lucid64.tar.gz:
   sha: !binary |-
     YjI2MzNiMmFiNDk2NGY5MTQwMmJiMmQ4ODlmMmYxMjQ0OWE4YjgyOA==
   size: 199489185
+elasticsearch/elasticsearch-0.20.6.tar.gz:
+  object_id: b9972db7-6eb2-4bb0-a013-bc7749c683db
+  sha: !binary |-
+    ZjY2YTc3OGFkOTRlYTFkZDY5ZDE4ZjhmODljZTMyYzIzODM4OThlYg==
+  size: 16461920
+elasticsearch/elasticsearch-http-basic-1.0.3.tar.gz:
+  object_id: 83c0d34f-ff09-4bb4-a546-c953112e390a
+  sha: !binary |-
+    Y2E4NDc3NzAwNDczN2E3YThlMjhlZjc0NjU0NzQzNDJkNDNiN2E1Yw==
+  size: 8704
+java/jre-7u4-linux-x64.tar.gz:
+  object_id: 8149b154-c4e9-4909-b7f5-3f0c40cccf79
+  sha: !binary |-
+    MTEwOGQxNzQ0YmFhNzNiZjZjYWEyYWRmOTY1ZDBmNDg5ZWExZWY2MA==
+  size: 32771159
