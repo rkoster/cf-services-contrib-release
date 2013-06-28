@@ -7,4 +7,4 @@ blobstore:
     access_key_id: AKIAJPWUHOHV42IMTNQQ
     secret_access_key: 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
     encryption_key: cloudfoundry-community
-min_cli_version: 1.5.0.pre.667
+min_cli_version: 1.5.0.pre.748
